@@ -21,7 +21,7 @@
 ### Current Services 
 - Docker🐳
 - Portainer
-- SSH Remote Administartion
+- SSH Remote Administration
 - Tailscale Secure Access 
 - Pi-hole DNS Filtering
 - Samba File Sharing 
@@ -45,12 +45,12 @@ Planned:
 
 ## 🛠️ Skills Developed 
 
-- Linux Administartion 
+- Linux Administration 
 - Command Line Usage
 - Networking Fundamentals 
 - Container Management 
 - Troubleshooting
-- Documentaion
+- Documentation
 - Version Control
 
 ---
