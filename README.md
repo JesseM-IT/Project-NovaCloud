@@ -28,7 +28,7 @@
 
 ---
 
-## 🥧 Nova-Edge
+## 🛰️ Nova-Edge
 
 **Role:** Network Infrastructure Node
 
@@ -55,8 +55,8 @@ Planned:
 
 ---
 
-## 📍 Current Status 
- 🚧 Actively Building 
+##  Current Status 
+ 🚧 Active Development & Testing
 
 ---
 
@@ -67,3 +67,17 @@ Planned:
 - Practice real-world troubleshooting and system administration 
 - Create scalable self-hosted services using modern infrastructure tools 
 - Continue expanding knowledge toward cloud engineering technologies  
+
+---
+
+## 📚What I Learned 
+
+Through building Project NovaCloud, I Gained hands-on experience with:
+ 
+- Installing and configuring Ubuntu Server on dedicated hardware 
+- Managing Linux systems through the command line
+- Deploying and maintaining Docker containers 
+- Configuring remote access using SSH and VPN solutions 
+- Troubleshooting network connectivity issues 
+- Documenting technical problems and solutions 
+- Managing an infrastructure project using GitHub version control
