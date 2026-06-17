@@ -55,8 +55,8 @@ Planned:
 
 ---
 
-##  Current Status 
- 🚧 Active Development & Testing
+## 🚧 Current Status 
+ Active Development & Testing
 
 ---
 
