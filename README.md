@@ -57,3 +57,13 @@ Planned:
 
 ## 📍 Current Status 
  🚧 Actively Building 
+
+---
+
+## 🎯 Project Goals 
+
+- Develop practical cloud infrastructure skills through hands-on experience
+- Build experience managing and maintaining Linux-based systems 
+- Practice real-world troubleshooting and system administration 
+- Create scalable self-hosted services using modern infrastructure tools 
+- Continue expanding knowledge toward cloud engineering technologies  
